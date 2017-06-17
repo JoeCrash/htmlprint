@@ -1,6 +1,6 @@
 /**
  * Html Print v 1.0
- * Created by joeycrash135 on 6/14/2016.
+ * Author: joeycrash135
  * Inspired by AllegiantInc
  */
 var HtmlPrint = function() {
